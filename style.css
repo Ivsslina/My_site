@@ -1,0 +1,26 @@
+.logotip {
+  font-family: "PT Serif" serif;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.menu {
+  font-family: Roboto;
+  font-size: 14px;
+}
+
+.topic {
+  font-family: "PT Serif" serif;
+  font-weight: bold;
+  font-size: 66px;
+}
+
+.paragraph {
+  font-family: Roboto;
+  font-size: 22px;
+}
+
+.button {
+  font-family: Roboto;
+  font-size: 18px;
+}
