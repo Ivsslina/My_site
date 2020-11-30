@@ -1,4 +1,4 @@
-.logotip {
+.logo {
   font-family: "PT Serif" serif;
   font-size: 24px;
   font-weight: bold;
@@ -9,18 +9,18 @@
   font-size: 14px;
 }
 
-.topic {
+.main-content__title {
   font-family: "PT Serif" serif;
   font-weight: bold;
   font-size: 66px;
 }
 
-.paragraph {
+.main-content__subtitle {
   font-family: Roboto;
   font-size: 22px;
 }
 
-.button {
+.main-content__button {
   font-family: Roboto;
   font-size: 18px;
 }
